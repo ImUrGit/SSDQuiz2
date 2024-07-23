@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson-dataformat-cbor-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/woodstox-core-6.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/stax2-api-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson-dataformat-xml-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson-databind-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson-datatype-jsr310-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson-module-parameter-names-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson-core-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson-module-jaxb-annotations-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson-dataformat-yaml-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/byte-buddy-1.14.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson-datatype-json-org-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson-annotations-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jackson2-api/WEB-INF/lib/jackson-datatype-jdk8-2.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

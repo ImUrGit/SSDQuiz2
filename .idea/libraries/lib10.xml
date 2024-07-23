@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/json-api/WEB-INF/lib/json-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/json-api/WEB-INF/lib/json-20240303.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

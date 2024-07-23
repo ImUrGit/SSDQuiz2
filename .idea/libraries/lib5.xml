@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/caffeine-api/WEB-INF/lib/caffeine-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/caffeine-api/WEB-INF/lib/caffeine-3.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

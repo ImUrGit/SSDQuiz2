@@ -11,13 +11,20 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - ./jenkins_home:/var/jenkins_home
-  
+
   webapp:
     container_name: webapp
     build: ./webapp
     ports:
-      - "80:80"
+      - "3000:3000" # Change this to use port 3000
 
-volumes:
-  jenkins_data:
-    driver: local
+  git-server:
+    container_name: git-server
+    image: gitea/gitea:latest
+    environment:
+      - USER_UID=1000
+      - USER_GID=1000
+    volumes:
+      - ./git-server/data:/data
+    ports:
+      - "3001:3000"

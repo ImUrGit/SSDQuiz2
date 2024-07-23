@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/asm-api/WEB-INF/lib/asm-analysis-9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/asm-api/WEB-INF/lib/asm-9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/asm-api/WEB-INF/lib/asm-tree-9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/asm-api/WEB-INF/lib/asm-commons-9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/asm-api/WEB-INF/lib/asm-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/asm-api/WEB-INF/lib/asm-util-9.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
